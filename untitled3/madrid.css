@@ -1,0 +1,80 @@
+body p{
+    padding-left: 60px;
+}
+
+.header h1{
+    color: white;
+    padding-top: 50px;
+}
+img{
+    width: 70px;
+    height: 90px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+header{
+    min-height: 100px;
+    background: black;
+    text-align: center;
+}
+.navbar{
+    margin-left: 14%;
+}
+.navbar li{
+    display: inline-flex;
+    margin-left: 70px ;
+}
+.nav{
+    border: 1px solid white;
+    font-family: "Droid Sans";
+    font-size: 30px;
+}
+li a{
+    color: white;
+}
+#content1{
+    background-color: white;
+    min-height: 400px;
+}
+#content2{
+    background-color: black;
+    color: white;
+    min-height: 400px;
+}
+#content3 {
+    background-color: white;
+    min-height: 400px;
+}
+#content4{
+    background-color: black;
+    color: white;
+    min-height: 400px;
+}
+#content5{
+    background-color: white;
+    min-height: 400px;
+}
+.footer{
+    font-size: 15px;
+    display: inline-block;
+    width: 100%;
+    color: white;
+    background-color: black;
+    min-height: 200px;
+}
+.footerimg{
+    width: 45%;
+    float: right;
+}
+.footercont{
+    width: 45%;
+    float: right;
+}
+.content h1{
+    text-align: center;
+}
+.footer h1{
+    text-align: center;
+    font-size: 25px;
+}
